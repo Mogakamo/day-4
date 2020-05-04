@@ -1,1 +1,1 @@
-# day-4
+https://mogakamo.github.io/day-4/
